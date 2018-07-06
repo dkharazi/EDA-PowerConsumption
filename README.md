@@ -6,12 +6,12 @@ Dataset: [Electic Power Consumption Data](https://d396qusza40orc.cloudfront.net/
 
 ## Variable Descriptions
 
-- Date: Date in format dd/mm/yyyy
-- Time: time in format hh:mm:ss
-- Global_active_power: household global minute-averaged active power (in kilowatt)
-- Global_reactive_power: household global minute-averaged reactive power (in kilowatt)
-- Voltage: minute-averaged voltage (in volt)
-- Global_intensity: household global minute-averaged current intensity (in ampere)
-- Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).
-- Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
-- Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+- `Date:` The date in format dd/mm/yyyy.
+- `Time:` The time in format hh:mm:ss.
+- `Global_active_power:` The household global minute-averaged active power (measured in kilowatts).
+- `Global_reactive_power:` The household global minute-averaged reactive power (measured in kilowatts).
+- `Voltage:` The minute-averaged voltage (measured in volts).
+- `Global_intensity:` The household global minute-averaged current intensity (measured in amperes).
+- `Sub_metering_1:` The energy sub-metering No. 1 (measured in watt-hour of active energy). This corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).
+- `Sub_metering_2:` The energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
+- `Sub_metering_3:` The energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
