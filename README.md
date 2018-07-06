@@ -1,9 +1,10 @@
-This assignment uses data from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/), a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
+## Overview
 
-Dataset: [Electic power consumption](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) [20Mb]
-Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+The dataset contains measurements of electric power consumption per household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available. The data was donated on August 30, 2012 by Georges Hebrail, who is a Senior Researcher at EDF located in France, and is available at the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. This archive contains 2,075,259 measurements gathered between December 2006 and November 2010 (47 months). For more details, refer to their [repository](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption).
 
-The following descriptions of the 9 variables in the dataset are taken from the [UCI web site](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption):
+Dataset: [Electic Power Consumption Data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) [20MB]
+
+## Variable Descriptions
 
 - Date: Date in format dd/mm/yyyy
 - Time: time in format hh:mm:ss
